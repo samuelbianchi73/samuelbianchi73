@@ -7,3 +7,6 @@ I'm Samuel Bianchi!
 - 👾 I made a few games with Microsoft Copilot that are featured on [GamerHub](https://github.com/rcreator822/GamerHub), like MPS!
 - 🧠 Learning lots from Github
 - 🥱 Enjoy doing basically nothing on my profile!
+
+## My GitHub Statistics
+[![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=samuelbianchi73)](https://github.com/anuraghazra/github-readme-stats)
