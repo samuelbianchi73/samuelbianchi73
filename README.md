@@ -9,4 +9,4 @@ I'm Samuel Bianchi!
 - 🥱 Enjoy doing basically nothing on my profile!
 
 ## My GitHub Statistics
-[![My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=samuelbianchi73)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelbianchi73&theme=dark&show_icons=true)
