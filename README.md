@@ -1,6 +1,6 @@
 ## Hello, World! :)
 
-I'm Samuel Bianchi!
+I'm Sam!
 
 - 🫤 I’m not very good at coding. I'm slowly but surely learning HTML!
 - 💻 I’m collaborating with rcreator822 on some projects!
