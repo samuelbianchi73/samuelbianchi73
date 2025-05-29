@@ -3,9 +3,7 @@
 I'm Sam!
 
 - 🫤 I’m not very good at coding. I'm slowly but surely learning HTML!
-- 💻 I’m collaborating with rcreator822 on some projects!
-- 👾 I made a few games with Microsoft Copilot that are featured on [GamerHub](https://github.com/rcreator822/GamerHub), like MPS!
-- 🧠 I'm learning a lot from my friends and GitHub!
+- 👾 I'm helping [rcreator822](https://github.com/rcreator/822 on [GamerHub](https://github.com/rcreator822/GamerHub)
 - 🥱 Enjoy doing basically nothing on my profile!
 
 ## My GitHub Statistics
